@@ -2,7 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<iframe src="https://merebtech-challenge.vercel.app/" width="100%" height="600px" style="border: none;"></iframe>
 
 ---
 
