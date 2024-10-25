@@ -3,6 +3,8 @@ import React, { useState } from 'react';
 const Tabs = () => {
   const [activeTab, setActiveTab] = useState(1); // State to manage the active tab
 
+//   This Project has deployed on https://merebtech-challenge.vercel.app/
+
   const tabs = [
     {
       id: 1,
